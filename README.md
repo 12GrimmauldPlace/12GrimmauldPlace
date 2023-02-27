@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @12GrimmauldPlace
-- 👀 I’m interested in ... web and mobile application development and data science. 
-- 🌱 I’m currently learning ... Android development, web application development with PHP and Java servlets, automation with Python, and software design and architecture.  
-- 💞️ I’m looking to collaborate on ... web or mobile application projects. 
-- 📫 How to reach me ...
+- 👀 I’m interested in ... software engineering, software architecture, machine learning, and data science
+- 🌱 I’m currently learning ...  computer security, database engineering, web services, etc.
 
 <!---
 12GrimmauldPlace/12GrimmauldPlace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
