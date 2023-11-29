@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @12GrimmauldPlace
-- 👀 I’m interested in ... software engineering, software architecture, machine learning, and data science
-- 🌱 I’m currently learning ...  computer security, database engineering, web services, etc.
+- 👀 I’m interested in ... software engineering, software architecture
+- 🌱 I’m currently learning ... .NET and Spring Boot
 
 <!---
 12GrimmauldPlace/12GrimmauldPlace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
