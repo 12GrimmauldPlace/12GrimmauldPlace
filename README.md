@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @12GrimmauldPlace
 - 👀 I’m interested in ... software engineering, software architecture
-- 🌱 I’m currently learning ... .NET and Spring Boot
+- 🌱 I’m currently learning ... FastAPI, React, and C# (ASP.NET)
 
 <!---
 12GrimmauldPlace/12GrimmauldPlace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
